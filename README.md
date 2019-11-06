@@ -7,12 +7,6 @@ The committed solutions aren't to be modified unless I have made a new submissio
 Place solutions in the `src` directory using the structure HackerRank uses (as shown in the picture below).
 ![screenshot](screenshot.png)
 
-# Installation
-
-Clone the repository using one of the following methods.
-- SSH:  `git clone git@github.com:neelkamath/hackerrank-solutions.git`
-- HTTPS: `git clone https://github.com/neelkamath/hackerrank-solutions.git`
-
 # License
 
 This project is under the [MIT License](LICENSE).
